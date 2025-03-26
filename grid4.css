@@ -1,0 +1,10 @@
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 100px auto 50px;
+    background-color: #f0616b;
+    text-align: center;
+    padding-top: 25px;
+    color: white;
+    
+}
